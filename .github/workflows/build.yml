@@ -2,9 +2,8 @@ name: Build .NET APP
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches:
+      - main
   workflow_dispatch:
   
 jobs:
@@ -18,15 +17,15 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: 8.x
-    - name: Restore dependencies
-      run: dotnet restore
+    - name: Set up dependency caching for faster builds
+      uses: actions/cache@v2
+      with:
+          path: ~/.nuget/packages
+          key: ${{ runner.os }}-nuget-${{ hashFiles('**/packages.lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-nuget-
     - name: Build
       run: dotnet build --no-restore
     - name: dotnet publish
       run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
 
-    - name: Upload artifact for deployment job
-      uses: actions/upload-artifact@v2
-      with:
-    - name: artifactfile_lambda
-          path: ${{env.DOTNET_ROOT}}/myapp
