@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\224360\\Documents\\Globelife\\TestWebAPI_01\\TestWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0024EE60-FB92-4EA2-B1EC-B081526F413D}|TestWebAPI.csproj|c:\\users\\224360\\documents\\globelife\\testwebapi_01\\testwebapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0024EE60-FB92-4EA2-B1EC-B081526F413D}|TestWebAPI.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0024EE60-FB92-4EA2-B1EC-B081526F413D}|TestWebAPI.csproj|c:\\users\\224360\\documents\\globelife\\testwebapi_01\\testwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0024EE60-FB92-4EA2-B1EC-B081526F413D}|TestWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0024EE60-FB92-4EA2-B1EC-B081526F413D}|TestWebAPI.csproj|c:\\users\\224360\\documents\\globelife\\testwebapi_01\\testwebapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0024EE60-FB92-4EA2-B1EC-B081526F413D}|TestWebAPI.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0024EE60-FB92-4EA2-B1EC-B081526F413D}|TestWebAPI.csproj|c:\\users\\224360\\documents\\globelife\\testwebapi_01\\testwebapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0024EE60-FB92-4EA2-B1EC-B081526F413D}|TestWebAPI.csproj|solutionrelative:models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\224360\\Documents\\Globelife\\TestWebAPI_01\\TestWebAPI\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\224360\\Documents\\Globelife\\TestWebAPI_01\\TestWebAPI\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "Controllers\\TodoItemsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAE8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T10:05:57.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\224360\\Documents\\Globelife\\TestWebAPI_01\\TestWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\224360\\Documents\\Globelife\\TestWebAPI_01\\TestWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T09:55:23.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\224360\\Documents\\Globelife\\TestWebAPI_01\\TestWebAPI\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\224360\\Documents\\Globelife\\TestWebAPI_01\\TestWebAPI\\Models\\TodoContext.cs",
+              "RelativeToolTip": "Models\\TodoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T09:50:14.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\224360\\Documents\\Globelife\\TestWebAPI_01\\TestWebAPI\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\224360\\Documents\\Globelife\\TestWebAPI_01\\TestWebAPI\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Models\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T09:47:52.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
